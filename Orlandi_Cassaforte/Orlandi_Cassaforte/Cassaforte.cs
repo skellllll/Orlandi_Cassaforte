@@ -93,6 +93,12 @@ namespace Orlandi_Cassaforte
             if (blocco == true && codiceInserito == codiceSblocco)
             {
                 cassaforteAperta = true;
+                blocco = false;
+            }
+            else
+            {
+                cassaforteAperta = false;
+                blocco = true;
             }
         }
     }
