@@ -1,0 +1,16 @@
+C:\Users\orlandi.21200\Desktop\Orlandi_Cassaforte\Orlandi_Cassaforte\Orlandi_Cassaforte\bin\Debug\net6.0-windows\Orlandi_Cassaforte.exe
+C:\Users\orlandi.21200\Desktop\Orlandi_Cassaforte\Orlandi_Cassaforte\Orlandi_Cassaforte\bin\Debug\net6.0-windows\Orlandi_Cassaforte.deps.json
+C:\Users\orlandi.21200\Desktop\Orlandi_Cassaforte\Orlandi_Cassaforte\Orlandi_Cassaforte\bin\Debug\net6.0-windows\Orlandi_Cassaforte.runtimeconfig.json
+C:\Users\orlandi.21200\Desktop\Orlandi_Cassaforte\Orlandi_Cassaforte\Orlandi_Cassaforte\bin\Debug\net6.0-windows\Orlandi_Cassaforte.dll
+C:\Users\orlandi.21200\Desktop\Orlandi_Cassaforte\Orlandi_Cassaforte\Orlandi_Cassaforte\bin\Debug\net6.0-windows\Orlandi_Cassaforte.pdb
+C:\Users\orlandi.21200\Desktop\Orlandi_Cassaforte\Orlandi_Cassaforte\Orlandi_Cassaforte\obj\Debug\net6.0-windows\Orlandi_Cassaforte.Form1.resources
+C:\Users\orlandi.21200\Desktop\Orlandi_Cassaforte\Orlandi_Cassaforte\Orlandi_Cassaforte\obj\Debug\net6.0-windows\Orlandi_Cassaforte.csproj.GenerateResource.cache
+C:\Users\orlandi.21200\Desktop\Orlandi_Cassaforte\Orlandi_Cassaforte\Orlandi_Cassaforte\obj\Debug\net6.0-windows\Orlandi_Cassaforte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orlandi.21200\Desktop\Orlandi_Cassaforte\Orlandi_Cassaforte\Orlandi_Cassaforte\obj\Debug\net6.0-windows\Orlandi_Cassaforte.AssemblyInfoInputs.cache
+C:\Users\orlandi.21200\Desktop\Orlandi_Cassaforte\Orlandi_Cassaforte\Orlandi_Cassaforte\obj\Debug\net6.0-windows\Orlandi_Cassaforte.AssemblyInfo.cs
+C:\Users\orlandi.21200\Desktop\Orlandi_Cassaforte\Orlandi_Cassaforte\Orlandi_Cassaforte\obj\Debug\net6.0-windows\Orlandi_Cassaforte.csproj.CoreCompileInputs.cache
+C:\Users\orlandi.21200\Desktop\Orlandi_Cassaforte\Orlandi_Cassaforte\Orlandi_Cassaforte\obj\Debug\net6.0-windows\Orlandi_Cassaforte.dll
+C:\Users\orlandi.21200\Desktop\Orlandi_Cassaforte\Orlandi_Cassaforte\Orlandi_Cassaforte\obj\Debug\net6.0-windows\refint\Orlandi_Cassaforte.dll
+C:\Users\orlandi.21200\Desktop\Orlandi_Cassaforte\Orlandi_Cassaforte\Orlandi_Cassaforte\obj\Debug\net6.0-windows\Orlandi_Cassaforte.pdb
+C:\Users\orlandi.21200\Desktop\Orlandi_Cassaforte\Orlandi_Cassaforte\Orlandi_Cassaforte\obj\Debug\net6.0-windows\Orlandi_Cassaforte.genruntimeconfig.cache
+C:\Users\orlandi.21200\Desktop\Orlandi_Cassaforte\Orlandi_Cassaforte\Orlandi_Cassaforte\obj\Debug\net6.0-windows\ref\Orlandi_Cassaforte.dll

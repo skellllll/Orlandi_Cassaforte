@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Orlandi_Cassaforte/1.0.0": {
+        "runtime": {
+          "Orlandi_Cassaforte.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Orlandi_Cassaforte/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
