@@ -1,0 +1,16 @@
+C:\Users\DAVIDE\Desktop\Cassaforte OD\Cassaforte OD\bin\Debug\net6.0-windows\Cassaforte OD.exe
+C:\Users\DAVIDE\Desktop\Cassaforte OD\Cassaforte OD\bin\Debug\net6.0-windows\Cassaforte OD.deps.json
+C:\Users\DAVIDE\Desktop\Cassaforte OD\Cassaforte OD\bin\Debug\net6.0-windows\Cassaforte OD.runtimeconfig.json
+C:\Users\DAVIDE\Desktop\Cassaforte OD\Cassaforte OD\bin\Debug\net6.0-windows\Cassaforte OD.dll
+C:\Users\DAVIDE\Desktop\Cassaforte OD\Cassaforte OD\bin\Debug\net6.0-windows\Cassaforte OD.pdb
+C:\Users\DAVIDE\Desktop\Cassaforte OD\Cassaforte OD\obj\Debug\net6.0-windows\Cassaforte_OD.Form1.resources
+C:\Users\DAVIDE\Desktop\Cassaforte OD\Cassaforte OD\obj\Debug\net6.0-windows\Cassaforte OD.csproj.GenerateResource.cache
+C:\Users\DAVIDE\Desktop\Cassaforte OD\Cassaforte OD\obj\Debug\net6.0-windows\Cassaforte OD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAVIDE\Desktop\Cassaforte OD\Cassaforte OD\obj\Debug\net6.0-windows\Cassaforte OD.AssemblyInfoInputs.cache
+C:\Users\DAVIDE\Desktop\Cassaforte OD\Cassaforte OD\obj\Debug\net6.0-windows\Cassaforte OD.AssemblyInfo.cs
+C:\Users\DAVIDE\Desktop\Cassaforte OD\Cassaforte OD\obj\Debug\net6.0-windows\Cassaforte OD.csproj.CoreCompileInputs.cache
+C:\Users\DAVIDE\Desktop\Cassaforte OD\Cassaforte OD\obj\Debug\net6.0-windows\Cassaforte OD.dll
+C:\Users\DAVIDE\Desktop\Cassaforte OD\Cassaforte OD\obj\Debug\net6.0-windows\refint\Cassaforte OD.dll
+C:\Users\DAVIDE\Desktop\Cassaforte OD\Cassaforte OD\obj\Debug\net6.0-windows\Cassaforte OD.pdb
+C:\Users\DAVIDE\Desktop\Cassaforte OD\Cassaforte OD\obj\Debug\net6.0-windows\Cassaforte OD.genruntimeconfig.cache
+C:\Users\DAVIDE\Desktop\Cassaforte OD\Cassaforte OD\obj\Debug\net6.0-windows\ref\Cassaforte OD.dll

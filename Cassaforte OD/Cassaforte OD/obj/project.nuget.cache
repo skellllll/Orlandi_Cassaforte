@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c7Q5hs2OxkQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DAVIDE\\Desktop\\Cassaforte OD\\Cassaforte OD\\Cassaforte OD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DAVIDE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\DAVIDE\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\DAVIDE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\DAVIDE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
